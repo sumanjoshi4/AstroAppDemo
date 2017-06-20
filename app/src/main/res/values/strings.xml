@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Astro</string>
+    <string name="facebook_app_id">315219238883556</string>
+    <string name="fb_login_protocol_scheme">fb315219238883556</string>
+    <string name="sort_channel_title">Channel Name</string>
+    <string name="sort_channel_text">Sort</string>
+    <string name="sort_favourite">Favourite</string>
+    <string name="error_network_default">We are unable to process your request right now. Please try again later.</string>
+    <string name="error_connection_timeout">We are unable to connect to the servers right now. We apologize for the inconvenience. Please try again later.</string>
+    <string name="error_no_network">You are not connected to Internet!</string>
+    <string name="error_no_data">No data found. Please Try Again!</string>
+    <string name="default_text">Default</string>
+    <string name="channel_name_text">Channel Name</string>
+    <string name="channel_number_text">Channel Number</string>
+    <string name="favourite_text">Favourite</string>
+</resources>

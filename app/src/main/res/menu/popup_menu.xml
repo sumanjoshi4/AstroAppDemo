@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+    <item android:id="@+id/menu_default"
+        android:checkable="true"
+        android:title="@string/default_text"/>
+    <item android:id="@+id/menu_channel_name"
+        android:checkable="true"
+        android:title="@string/channel_name_text"/>
+    <item android:id="@+id/menu_channel_number"
+        android:checkable="true"
+        android:title="@string/channel_number_text"/>
+    <item android:id="@+id/menu_channel_favrt"
+        android:checkable="true"
+        android:title="@string/favourite_text"/>
+    </group>
+</menu>

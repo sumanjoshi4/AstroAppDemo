@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "706101391936",
+    "firebase_url": "https://astroapp-3e498.firebaseio.com",
+    "project_id": "astroapp-3e498",
+    "storage_bucket": "astroapp-3e498.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706101391936:android:06c69e0586f9c4d9",
+        "android_client_info": {
+          "package_name": "com.app.astro.astroassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706101391936-7ffsh345sj3sk8eqgtvpo178dk1njbrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmj3SeZ_wIVa6gMUuUyftyAQCy_NZDsxk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
